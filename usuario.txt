@@ -1,0 +1,3 @@
+usuario: (name of your account)
+contraseña: (Password of your account)
+persona: (The name of the person you want to follow)
